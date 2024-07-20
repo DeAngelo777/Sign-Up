@@ -99,6 +99,7 @@ color: #ceb1ff;
 
 input{
     width: 350px;
+    height: 25px;
     border: none;
 border-bottom: 2px solid #f0f0f0;}
 
@@ -125,6 +126,7 @@ border: none;
 border-radius: 25px;
 margin-right: 25px;
 font-weight: 800;
+cursor: pointer;
 }
 
 .btn-update{
@@ -168,4 +170,10 @@ h1{
     .background{
         height: 120vh;
     }
+
+
+    .desine-div{
+        width: 490px;
+    }
+
 }
