@@ -21,6 +21,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 **Check sign up design here --** [Design Photo](https://i.imgur.com/qT7mtmV.png)
 <br>
+<br>
 
 ## 🎯 Project features/goals
 
