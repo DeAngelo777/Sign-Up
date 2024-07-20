@@ -15,11 +15,11 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://deangelo777.github.io/Sign-Up
+Site published at: - [Live Demo](https://deangelo777.github.io/Sign-Up)
 
 Design:
 
-- [Sign Up Design](https://i.imgur.com/qT7mtmV.png) Sign Up Demo Design
+- [Design Demo](https://i.imgur.com/qT7mtmV.png) Sign Up
 
 ## 🎯 Project features/goals
 
