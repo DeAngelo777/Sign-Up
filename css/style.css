@@ -31,7 +31,7 @@ background-size: cover;
 }
 
 h1{
-    color: #fff;
+    color: #eedeea;
     font-family: 'Helvetica Neu','Roboto', 'Ubuntu';
     text-align: center;
     margin-top: 25px;
@@ -158,11 +158,11 @@ font-weight: 800;
         margin-top: 50px;
     }
 h1{
-    color: #fff;
+    color: white;
 }
     
     .kaire-div{
-        height: 30vh;
+        height: 15vh;
     }
 
     .background{

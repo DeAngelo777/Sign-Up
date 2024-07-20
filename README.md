@@ -27,7 +27,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 - Github pages
 - CSS file
-- Responsive design
+- Responsive design!
 
 ## 🧰 Getting Started
 
